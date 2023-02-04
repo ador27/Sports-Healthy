@@ -5,6 +5,7 @@ import FourthPart from './Components/FourthPart';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import SecondBanner from './Components/SecondBanner';
+import ThirdPart from './Components/ThirdPart';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Header />
       <SecondBanner />
+      <ThirdPart />
       <FourthPart />
       <FifthPart />
       <Footer />

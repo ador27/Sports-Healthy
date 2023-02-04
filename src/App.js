@@ -5,6 +5,7 @@ import FourthPart from './Components/FourthPart';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import SecondBanner from './Components/SecondBanner';
+import Testimonial from './Components/Testimonial';
 import ThirdPart from './Components/ThirdPart';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <ThirdPart />
       <FourthPart />
       <FifthPart />
+      <Testimonial />
       <Footer />
     </div>
   );
